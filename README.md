@@ -93,4 +93,4 @@
 | HEAD списка | 200 без тела |
 | `/var/jwt.key` по HTTP | 404 (ключ вне веб-корня) |
 
-Необязательное упражнение на Laravel (`laravel_extra.md`) не выполнялось.
+Дополнительное задание «Каталог на Laravel» выполнено отдельным проектом: [PHP-practic-6-dop](https://github.com/Rauka-pvl/PHP-practic-6-dop).
